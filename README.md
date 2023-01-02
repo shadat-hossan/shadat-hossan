@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shadat-hossan&label=Profile%20views&color=0e75b6&style=flat" alt="shadat-hossan" /> </p>
 
-<p align="left"> <a href="https://twitter.com/shahadat" target="blank"><img src="https://img.shields.io/twitter/follow/shahadat?logo=twitter&style=for-the-badge" alt="shahadat" /></a> </p>
+<p align="left"> <a href="https://twitter.com/Shahada37834874" target="blank"><img src="https://img.shields.io/twitter/follow/shahadat?logo=twitter&style=for-the-badge" alt="shahadat" /></a> </p>
 
 - 🌱 I’m currently learning **React**
 
