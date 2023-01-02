@@ -19,10 +19,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/shahadat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shahadat" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/md shadat hossain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md shadat hossain" height="30" width="40" /></a>
+<a href="https://twitter.com/Shahada37834874" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shahadat" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/md-shadat-hossain-b31388245" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md shadat hossain" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/19550882" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19550882" height="30" width="40" /></a>
-<a href="https://fb.com/md shadat hossain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="md shadat hossain" height="30" width="40" /></a>
+<a href="https://fb.com/mdshahadat.hossan.56027" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="md shadat hossain" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
