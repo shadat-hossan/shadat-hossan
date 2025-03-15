@@ -1,15 +1,15 @@
 ![masterHead](https://www.digitalsolutionservices.com/img/services/web%20development.gif)
-<h1 align="center">Hi 👋, I'm Shadat Hossan</h1>
-<h3 align="center">A passionate full stack web developer from Bangladesh</h3>
+<h1 align="center">Hi 👋, I'm Shadat Hossain</h1>
+<h3 align="center">Driven Software Engineer from Bangladesh with a Passion for Innovation</h3>
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/BqbIhT4Mb7cAAAAd/programmer-rounded-edges.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shadat-hossan&label=Profile%20views&color=0e75b6&style=flat" alt="shadat-hossan" /> </p>
 
 <p align="left"> <a href="https://twitter.com/Shahada37834874" target="blank"><img src="https://img.shields.io/twitter/follow/shahadat?logo=twitter&style=for-the-badge" alt="shahadat" /></a> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Microservice**
 
-- 👨‍💻 All of my projects are available at [https://creative-semolina-7dba1c.netlify.app/](https://creative-semolina-7dba1c.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://shadat-hossain.netlify.app/](https://shadat-hossain.netlify.app/)
 
 - 💬 Ask me about **Web**
 
